@@ -1,6 +1,8 @@
 Overview
 
-This project is a Python-based implementation of a strategic game involving two players. The game utilizes a board where players make moves and try to outsmart each other. It's built with extensibility and modular design in mind, using classes and data structures for efficient gameplay.
+This project presents an advanced Python-based strategic game that prominently features Artificial Intelligence (AI) elements in gameplay. At its core, the game is a tactical battle of wits between two players on a customizable game board. What makes this project stand out is its integration of various AI algorithms, notably the MiniMax Alpha Beta algorithm.
+
+The game offers three distinct player types: a user-controlled player for those who prefer a hands-on approach, a randomly acting player for an element of unpredictability, and an AI player that uses sophisticated algorithms to make strategic decisions. This AI player is not just a static opponent; it's designed to adapt its strategy based on the game's progress, making each session unique and challenging.
 
 Features
 
