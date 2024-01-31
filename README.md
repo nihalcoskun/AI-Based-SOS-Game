@@ -1,10 +1,10 @@
-Overview
+## **Overview**
 
 This project presents an advanced Python-based strategic game that prominently features Artificial Intelligence (AI) elements in gameplay. At its core, the game is a tactical battle of wits between two players on a customizable game board. What makes this project stand out is its integration of various AI algorithms, notably the MiniMax Alpha Beta algorithm.
 
 The game offers three distinct player types: a user-controlled player for those who prefer a hands-on approach, a randomly acting player for an element of unpredictability, and an AI player that uses sophisticated algorithms to make strategic decisions. This AI player is not just a static opponent; it's designed to adapt its strategy based on the game's progress, making each session unique and challenging.
 
-Features
+## **Features**
 
 Game Board Customization: Customizable board size for varied levels of play.
 
@@ -14,7 +14,7 @@ Scoring System: Implements a scoring system to track players' performance.
 
 Interactive User Interface: Command-line interface for user inputs and game interaction.
 
-Usage
+## **Usage**
 
 After starting the game, follow the on-screen prompts to:
 
@@ -24,7 +24,7 @@ After starting the game, follow the on-screen prompts to:
 
 -View the game board and scores after each move.
 
-How to Play
+## **How to Play**
 
 -Players take turns to place either an 'S' or an 'O' on the board.
 
@@ -32,7 +32,7 @@ How to Play
 
 -Each time 'SOS' is formed, the player earns a point.
 
-Code Structure
+## **Code Structure**
 
 main.py: The entry point of the game. Handles user interactions and game setup.
 
@@ -44,6 +44,6 @@ players.py: Defines player classes including AbstractPlayer and specific player 
 
 utils.py: Utility classes and enums like Location, Move, and Sign.
 
-Requirements
+## **Requirements**
 
 Python 3.x
